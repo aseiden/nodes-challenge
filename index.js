@@ -47,6 +47,7 @@ const traverseNodes = async () => {
   }
 }
 
+// Uncomment this if you want to run v1
 // (async () => {
 //   try {
 //       var text = await traverseNodes();
