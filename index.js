@@ -101,6 +101,7 @@ const traverseNodes2 = async () => {
 
   return {
     max,
+    edgeCounts,
     uniqueNodeCount,
   }
 }
