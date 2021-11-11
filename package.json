@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/aseiden/nodes-challenge/issues"
   },
-  "homepage": "https://github.com/aseiden/nodes-challenge#readme"
+  "homepage": "https://github.com/aseiden/nodes-challenge#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "bluebird": "^3.7.2"
+  }
 }
